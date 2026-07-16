@@ -31,7 +31,7 @@ export default function Navbar() {
     >
       <nav className="max-w-6xl mx-auto flex items-center justify-between px-6 py-4">
         <Link to="/" className="font-display text-2xl tracking-wide text-ochre-800">
-          Makasa Barber
+          Makasana's Barber
         </Link>
 
         <div className="hidden md:flex items-center gap-8 text-sm font-medium text-ink/80">
